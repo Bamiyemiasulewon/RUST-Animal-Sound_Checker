@@ -12,17 +12,13 @@ A simple Rust program that checks and displays the sound of various animals base
     git clone https://github.com/your-username/animal-sound-checker.git
     ```
 
-3. Navigate to the project directory:
-
-    ```bash
+3. Navigate to the project directory:  
     cd animal-sound-checker
-    ```
+    
 
-4. Run the program:
-
-    ```bash
+4. Run the program:    
     cargo run
-    ```
+    
 
 5. Enter the name of an animal when prompted. The program will display the corresponding sound. Type 'exit' to quit the program.
 
