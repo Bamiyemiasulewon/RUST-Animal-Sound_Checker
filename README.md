@@ -8,9 +8,9 @@ A simple Rust program that checks and displays the sound of various animals base
 
 2. Clone this repository to your local machine:
 
-    ```bash
-    git clone https://github.com/your-username/animal-sound-checker.git
-    ```
+   
+    git clone
+    
 
 3. Navigate to the project directory:  
     cd animal-sound-checker
