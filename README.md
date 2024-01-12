@@ -2,15 +2,15 @@
 
 A simple Rust program that checks and displays the sound of various animals based on user input.
 
-## Usage
+# Usage
 
 1. Ensure you have Rust installed. If not, you can download it from [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install).
 
 2. Clone this repository to your local machine:
 
-   
-    git clone
-    
+    ```bash
+    git clone https://github.com/your-username/animal-sound-checker.git
+    ```
 
 3. Navigate to the project directory:  
     cd animal-sound-checker
