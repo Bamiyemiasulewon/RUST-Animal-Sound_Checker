@@ -1,6 +1,6 @@
 # Animal Sound Checker
 
-A simple Rust program that checks and displays the sound of various animals based on user input
+A simple Rust program that checks and displays the sound of various animals based on user input.
 
 # Usage
 
